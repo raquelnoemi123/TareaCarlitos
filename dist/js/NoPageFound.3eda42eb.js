@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkapp_rutas_v3"]=self["webpackChunkapp_rutas_v3"]||[]).push([[488],{1671:function(n,u,r){r.r(u),r.d(u,{default:function(){return p}});var t=r(3396);const a=(0,t._)("h1",null,"404",-1),e=(0,t._)("h3",null,"Not Found Page",-1);function l(n,u){return(0,t.wg)(),(0,t.iD)(t.HY,null,[a,e],64)}var s=r(89);const c={},o=(0,s.Z)(c,[["render",l]]);var p=o}}]);
+//# sourceMappingURL=NoPageFound.3eda42eb.js.map

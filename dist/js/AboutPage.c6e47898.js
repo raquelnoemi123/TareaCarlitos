@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkapp_rutas_v3"]=self["webpackChunkapp_rutas_v3"]||[]).push([[145],{4312:function(u,n,r){r.r(n),r.d(n,{default:function(){return p}});var t=r(3396);function a(u,n){return(0,t.wg)(),(0,t.iD)("h1",null,"About Page")}var e=r(89);const s={},c=(0,e.Z)(s,[["render",a]]);var p=c}}]);
+//# sourceMappingURL=AboutPage.c6e47898.js.map
